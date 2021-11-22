@@ -51,7 +51,3 @@ Proyecto 1 | Proyecto 2  | Proyecto 3
 ![Nombre proyecto](https://s3.amazonaws.com/creativetim_bucket/products/38/original/material-kit.jpg?1633601280) | ![Nombre proyecto](https://s3.amazonaws.com/creativetim_bucket/products/450/original/opt_sd_free_thumbnail.jpg?1617715816) | ![Nombre proyecto](https://s3.amazonaws.com/creativetim_bucket/products/490/original/opt_soft_ui_react_native_thumbnail.jpg?1625576346)
 
 [Ver todos los proyectos](https://emanuelromero.com/)
-
-## Expectiva salarial por mis servicios
-
-Estoy buscando una empresa donde pueda ser yo mismo, sin nada de ambientes pesados siempre voy a preferir mi salud mental antes que cualquier otra cosa, también me gustaría un equipo de desarrollo profesional. Mis expectativas salariales están entre los 1200-1600 USD mensuales libres con esquema 100% nominal o mixto. Si deseas contactarme puedes conectar conmigo en LinkedIn en este enlace: 🤝 [Conectar](https://www.linkedin.com/in/emanuel-romero-madrigal-816417206/)
