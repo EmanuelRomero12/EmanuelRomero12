@@ -29,8 +29,6 @@ Pienso que al dedicarnos a esta rama de la industria podemos caer en el juego de
  
 ## Mis tecnologias 🤖
 
-Desarrollos realizados con las tecnologías que demanda el mercado actualmente, estas no solo ofrecen seguridad sino que también ofrecen escalabilidad para ese proyecto que convertirá a tu empresa en la próxima Startup más exitosa de tu país.
-
 <p>
   <img src="https://emanuelromero.com/assets/Mongo.png" width="67.5px" />
   <img src="https://emanuelromero.com/assets/React.png" width="67.5px" />
